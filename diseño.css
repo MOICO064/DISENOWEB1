@@ -28,7 +28,11 @@ header, main, footer {
     max-width: 600px;
 }
 
-
+header, footer, footer a {
+    text-align: center;
+    background-color:#0f0f0f;
+    color: rgb(253, 253, 253);
+}
 
 header img {
     width: 150px;
